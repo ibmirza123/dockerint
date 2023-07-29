@@ -1,2 +1,2 @@
 # dockerint
-this is the text added 
+this is the text added for global var
